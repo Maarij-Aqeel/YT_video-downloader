@@ -1,4 +1,3 @@
-YouTube Video/Audio Downloader
 This Python script allows you to download YouTube videos or audio files directly to your computer. Using the pytube library, it fetches and lists available streams for a given YouTube link, which can then be downloaded in the desired format.
 
 Features:
